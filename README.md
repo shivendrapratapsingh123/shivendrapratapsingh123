@@ -30,9 +30,9 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=shivendrapratapsingh123&text_color=d1d7eb&title_color=09ede2&icon_color=0ee64b" height="150" alt="stats graph"  />
-  
+ 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=shivendrapratapsingh123&text_color=d1d7eb&title_color=09ede2&icon_color=0ee64b" height="150" alt="languages graph"  />
-
+ 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=github-dark-blue&user=shivendrapratapsingh123" alt="shivendrapratapsingh123" /></p>
 
 </div>
