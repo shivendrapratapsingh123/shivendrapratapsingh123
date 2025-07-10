@@ -13,7 +13,7 @@ Databricks, Apache Spark, AWS, Python, SQL, Kafka, Airflow, TensorFlow, scikit-l
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kspsg11/)
 [![Geeksforgeeks](https://img.shields.io/badge/GeeksForGeeks-%230077B5.svg?logo=GeeksForGeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/kspsg11/practice/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivendra_.gurjar)
-[![Insta](https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivendra_.gurjar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shivenra_.gurjar)
 
 
 
