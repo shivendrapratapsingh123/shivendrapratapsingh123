@@ -1,10 +1,13 @@
 # Hi 👋 
- I am Shivendra Pratap Singh 4th year CSE undergrad, from National Institute of Technology Agartala                          
-- 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on tech related things 
-- 📧 How to reach me shivendra.sp.123@gmail.com                                                      
+ I'm Shivendra Pratap Singh, a Data Engineer.
+🎓 I hold a B.Tech. in Computer Science & Engineering from NIT Agartala.
+🧠 Previously, I worked as a Data Science Intern (Generative AI).
+🚀 I'm passionate about building innovative and scalable systems, and I'm currently exploring opportunities in Data Engineering, AI/ML, and Backend/Full Stack Development.
+📜 I'm a Databricks Certified Data Engineer Associate and an AWS Certified AI Practitioner.
+💻 My technical toolkit includes:
+Databricks, Apache Spark, AWS, Python, SQL, Kafka, Airflow, TensorFlow, scikit-learn, Generative AI, Java, C++, React, Node.js, Spring Boot, DSA, System Design, REST APIs, Git and more.
+📬 Reach me at: shivendra.sp.965@gmail.com                                                     
 ## 🌐 connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivendra_sps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivendra-pratap-singh-sps/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kspsg11/)
 [![Geeksforgeeks](https://img.shields.io/badge/GeeksForGeeks-%230077B5.svg?logo=GeeksForGeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/kspsg11/practice/)
